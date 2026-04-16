@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: yourdockerhubusername/app:latest
+        image: santhoshh005/app:latest
         ports:
         - containerPort: 8080
 
